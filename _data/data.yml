@@ -8,19 +8,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Ernesto Manuel Jimenez Pineda # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: pinedajimenez075@gmail.com
+  phone: 314 161 8402
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: ernestomjp  # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: ernesto2001-code # solo tu nombre de usuario en github o dejar en blanco
+  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: '' # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,13 +35,13 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Responsible
       link: # dejar en blanco
 
-    - item: Effective communication
+    - item: Assertive Communication
       link: # dejar en blanco
 
-    - item: Good Team Player
+    - item: Punctuality
       link: # dejar en blanco
 
     - item: Positive Attitude
@@ -49,51 +49,60 @@ sidebar:
 
     - item: Time and Task Management
       link: # dejar en blanco
-
+    
+    - item: Learning Fast
+      link: # dejar en blanco
+    
+    - item: Teamwork
+      link: # dejar en blanco
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    I am a Software Engineer specialized in mobile application development with solid experience in Android. 
+    I have experience using the React Native framework integrated with TypeScript to create responsive and 
+    user-friendly applications. Communication is key in my software development approach, ensuring that I understand 
+    and meet client needs and collaborate effectively with teams. I employ agile methodologies such as Scrum to streamline 
+    development and enhance team productivity. Driven by innovation and a passion for technology, I continuously seek to 
+    adopt the latest advancements in the field to improve my development skills and deliver superior solutions.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2020 - 2024
     details: |
-      Facultad de Telemática - Software Engineer.
+      Facultad de Ingenieria Electromecanica - Software Engineer.
 
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
-    details: |
-      300 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Dec 2023 - Jan 2024
     company: Bright Coders, Mexico
     details: |
-      Develop native applications with technologies such as Javascript and React Native, 
+      Develop native applications with technologies such as TypeScript and React Native, 
       while implementing good practices, test-based development, tools for managing local 
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: Roamify
+    time: Mar 2024 - May 2024
+    company: Bright Coders, Mexico
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
+      In my role, I was responsible for designing user interfaces using Figma and developing a mobile 
+      application with React Native. This application is designed to help users discover social events 
+      or significant locations within a particular area. I integrated the Google Maps API to enhance 
+      user interaction, providing real-time location tracking and navigation to improve the overall user experience. 
 
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
+  - role: Android movil application for carpoling “uniride” 
+    time: Agu 2023 - Nov 2023
+    company: Universidad de Colima
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      My role involved designing the user interfaces with Figma and using Android Studio for the 
+      development of a mobile application designed to facilitate local trip bookings among students traveling to the same educational institution. 
+      This app aims to reduce vehicle pollution and assist students without vehicles to reach their educational institutions more efficiently. 
+      I utilized Firebase as a Backend-as-a-Service (BaaS) to manage backend tasks efficiently and to streamline data handling, enhancing the app’s overall performance and reliability.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -106,9 +115,14 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 50%
+      level-name: Advanced beginner
+      time: 1 year
+
+    - name: TypeScript
+      level: 50%
+      level-name: Advanced beginner
+      time: 7 months
 
     - name: React
       level: 40%
@@ -116,9 +130,30 @@ skills:
       time: 1 year
 
     - name: React Native
+      level: 50%
+      level-name: Advanced beginner
+      time: 7 months
+    
+    - name: Git
+      level: 65%
+      level-name: Competent
+      time: 2 years
+    
+    - name: Java
+      level: 70%
+      level-name: Competent
+      time: 2 years
+    
+    - name: NoSQL Databases
       level: 80%
       level-name: Proficient
-      time: 2+ years
+      time: 2 years
+    
+    - name: SQL Databases
+      level: 50%
+      level-name: Advanced beginner
+      time: 1+ years
+
 
 # NO MODIFICAR
 footer: >
